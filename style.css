@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    list-style: none;
+    background-color: #52616B;
+    text-align: right;
+
+
+}
+
+#nav ul li {
+    display: inline-block;
+    padding: 10px 0px;
+
+}
+
+#nav li a {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    color: #F0F5F9;
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#nav li a:hover {
+    color: #C9D6DF;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+#title {
+    font-family: 'Mali', cursive;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1E2022;
+    background-color: #F0F5F9;
+    padding: 50px;
+
+}
+
+#title p {
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 40px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #1E2022;
+
+}
+
+img {
+
+    border-radius: 5%;
+    width: 200px;
+}
+
+ul {
+    list-style: none;
+
+}
+
+#animals {
+    background-color: #C9D6DF;
+    padding: 40px;
+}
+
+caption {
+    margin: 20px;
+    font-family: 'Mali', cursive;
+    font-size: 2rem;
+
+}
+
+th {
+    font-family: 'Mali', cursive;
+    font-size: 1rem;
+}
+
+table, td {
+    border: 1px solid #C9D6DF;
+    border-radius: 5%;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.animal-table {
+    margin: 0 auto;
+    background-color: #F0F5F9;
+}
+
+form p {
+    padding: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.adopt-form {
+    padding: 60px 60px 100px 60px;
+    width: 350px;
+    margin: 0 auto;
+    background-color: #C9D6DF;
+    border-radius: 10%;
+
+}
+
+button {
+    font-family: 'Mali', cursive;
+    color: #1E2022;
+    background-color: #F0F5F9;
+    border-radius: 5%;
+    padding: 10px;
+    font-size: 20px;
+    float: right;
+    margin: 10px 16px 0 0;
+}
+
+button:hover {
+    background-color: #f0f5f99d;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+    height: 25px;
+}
+
+body {
+    background-color: #F0F5F9;
+}
